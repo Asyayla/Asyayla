@@ -9,12 +9,12 @@ I focus on creating high-quality, maintainable, and scalable software solutions.
 ## 🛠️ Skills & Tools
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=oracle&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=20232A)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dot-net&logoColor=white)
-![MSSQL](https://img.shields.io/badge/MSSQL-007ACC?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=aspnet&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-007ACC?style=for-the-badge&logo=sql-server&logoColor=white)
 
 ---
 
