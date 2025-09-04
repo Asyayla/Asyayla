@@ -9,7 +9,7 @@
 ## 🛠️ Skills & Tools
 
 ### 🌐 Languages  
-![C](https://img.shields.io/badge/C-Language-00599C?style=for-the-badge)
+![C](https://img.shields.io/badge/-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
