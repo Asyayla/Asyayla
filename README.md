@@ -1,46 +1,68 @@
 # Hi, I'm Asya Yayla 👩‍💻
 
-I am an aspiring Full-Stack Developer and Software Development Student, with expertise in **C, C++, Java** and professional experience with **C#** for backend development.  
-I have full-stack experience building projects with **ASP.NET Core Web API** and **React**, including a comprehensive **Site Management and Dues System**.  
-I focus on creating high-quality, maintainable, and scalable software solutions.
+🎓 Software Development student specializing in **Full-Stack Development**  
+💻 Skilled in **C, C++, Java, C#, Python** with hands-on experience in **ASP.NET Core** and **React**  
+🚀 Passionate about building **scalable, maintainable, and user-focused software solutions**
 
 ---
 
 ## 🛠️ Skills & Tools
+
+### 🌐 Languages  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=20232A)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dot-net&logoColor=white)
-![MSSQL](https://img.shields.io/badge/MSSQL-007ACC?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+### ⚙️ Frameworks & Libraries  
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+### 🗄️ Databases  
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### 🔧 Other Tools  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-FF6F00?style=for-the-badge&logo=googletagmanager&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-2496ED?style=for-the-badge&logo=trello&logoColor=white)
 
 ---
 
 ## 💻 Featured Projects
 
-### [Site Management and Dues System](https://github.com/asyayla/site-management)
-![Site Management Demo](https://via.placeholder.com/400x200.png?text=Site+Management+Demo)
-- Full-stack: ASP.NET Core + React
-- Features: User management, apartment & dues tracking
-- JWT authentication & role-based authorization
-
-### [Python Project](https://github.com/asyayla/python-project)
-![Python Project Demo](https://via.placeholder.com/400x200.png?text=Python+Project+Demo)
-- Upcoming: Data analysis / web application
-
-### [Mini Projects](https://github.com/asyayla/mini-projects)
-![Mini Projects Demo](https://via.placeholder.com/400x200.png?text=Mini+Projects+Demo)
-- C/C++ algorithms & data structures
-- Java backend API implementations
+### 🔹 Site Management and Dues System
+A full-stack application built with **ASP.NET Core Web API + React**  
+- Features: User management, apartment & dues tracking  
+- Authentication: JWT-based, role-based authorization  
+- Database: MSSQL with Entity Framework Core  
+[📂 Repository](#) | [🎥 Demo](#)
 
 ---
 
-## 📈 Coding Activity
-✅ Active problem solver on [LeetCode](https://leetcode.com/asyayla)  
+### 🔹 Python Data Analysis (Upcoming)
+Exploring **data analysis & web applications** with Python  
+[📂 Repository](#)
+
+---
+
+### 🔹 Algorithms & Data Structures
+Implementations in **C/C++ & Java**  
+- Sorting & searching algorithms  
+- Custom data structures (linked list, stack, queue, tree)  
+- Inspired by academic course: *Data Structures and Algorithms*  
+[📂 Repository](#)
+
+---
+
+## 📈 Coding Practice
+- Active problem solver on **LeetCode & HackerRank**  
+- Strong foundation in **Data Structures & Algorithms**
 
 ---
 
 ## 📫 Contact
-- Email: asyayayla0@gmail.com  
+- Email: **asyayayla0@gmail.com**  
+- LinkedIn: *(coming soon)*
