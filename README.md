@@ -7,14 +7,16 @@ I focus on creating high-quality, maintainable, and scalable software solutions.
 ---
 
 ## 🛠️ Skills & Tools
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=oracle&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=20232A)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=aspnet&logoColor=white)
-![MSSQL](https://img.shields.io/badge/MSSQL-007ACC?style=for-the-badge&logo=sql-server&logoColor=white)
+
+![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)
+![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)
+![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)
+![C#](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg)
+![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
+![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)
+![ASP.NET](https://raw.githubusercontent.com/devicons/devicon/master/icons/aspnet/aspnet-original.svg)
+![MSSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mssql/mssql-original.svg)
+
 
 ---
 
