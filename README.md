@@ -13,9 +13,8 @@ I focus on creating high-quality, maintainable, and scalable software solutions.
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=20232A)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=asp.net&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dot-net&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/MSSQL-007ACC?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
 ---
 
 ## 💻 Featured Projects
