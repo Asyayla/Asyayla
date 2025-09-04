@@ -44,4 +44,4 @@ I focus on creating high-quality, maintainable, and scalable software solutions.
 
 ## 📫 Contact
 - Email: asyayayla0@gmail.com   
-- GitHub: [github.com/asyayla](https://github.com/asyayayla)
+- GitHub: [github.com/Asyayla](https://github.com/Asyayayla)
