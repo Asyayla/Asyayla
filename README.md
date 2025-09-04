@@ -1,6 +1,6 @@
 # Hi, I'm Asya Yayla 👩‍💻
 
-I am a software developer with expertise in **C, C++, Java** and professional experience with **C#** for backend development.  
+I am an aspiring Full-Stack Developer and Software Developer Student, with expertise in **C, C++, Java** and professional experience with **C#** for backend development.  
 I have full-stack experience building projects with **ASP.NET Core Web API** and **React**, including a comprehensive **Site Management and Dues System**.  
 I focus on creating high-quality, maintainable, and scalable software solutions.
 
@@ -43,5 +43,4 @@ I focus on creating high-quality, maintainable, and scalable software solutions.
 ---
 
 ## 📫 Contact
-- Email: asyayayla0@gmail.com   
-
+- Email: asyayayla0@gmail.com  
