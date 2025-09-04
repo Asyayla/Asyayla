@@ -7,22 +7,20 @@ I focus on creating high-quality, maintainable, and scalable software solutions.
 ---
 
 ## 🛠️ Skills & Tools
-
-![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)
-![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)
-![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)
-![C#](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg)
-![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
-![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)
-![ASP.NET](https://raw.githubusercontent.com/devicons/devicon/master/icons/aspnet/aspnet-original.svg)
-![MSSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mssql/mssql-original.svg)
-
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=asp.net&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-007ACC?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 ---
 
 ## 💻 Featured Projects
 
-### 🏢  [Site Management and Dues System](https://github.com/asyayla/site-management)
+### 💼 [Site Management and Dues System](https://github.com/asyayla/site-management)
 ![Site Management Demo](https://via.placeholder.com/400x200.png?text=Site+Management+Demo)
 - Full-stack: ASP.NET Core + React
 - Features: User management, apartment & dues tracking
@@ -41,4 +39,3 @@ I focus on creating high-quality, maintainable, and scalable software solutions.
 
 ## 📫 Contact
 [![Email](https://img.shields.io/badge/Email-asyayla0@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asyayayla0@gmail.com)
-
