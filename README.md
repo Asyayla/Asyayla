@@ -4,7 +4,7 @@ I am a software developer with expertise in **C, C++, Java** and professional ex
 I have full-stack experience building projects with **ASP.NET Core Web API** and **React**, including a comprehensive **Site Management and Dues System**.  
 I focus on creating high-quality, maintainable, and scalable software solutions.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asyayla&layout=compact&theme=radical)
+
 
 ---
 
