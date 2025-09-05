@@ -49,20 +49,15 @@ Exploring **data analysis & web applications** with Python
 ---
 
 ### 🔹 Algorithms & Data Structures
-Implementations in **C/C++ & Java**  
+Practical implementations in **C/C++ & Java**, based on core computer science concepts  
 - Sorting & searching algorithms  
 - Custom data structures (linked list, stack, queue, tree)  
-- Inspired by academic course: *Data Structures and Algorithms*  
 [📂 Repository](#)
 
 ---
 
 ## 📈 Coding Practice
-- Active problem solver on **LeetCode & HackerRank**  
+- Active problem solver on **LeetCode**  
 - Strong foundation in **Data Structures & Algorithms**
 
----
 
-## 📫 Contact
-- Email: **asyayayla0@gmail.com**  
-- LinkedIn: *(coming soon)*
