@@ -57,7 +57,7 @@ Practical implementations in **C/C++ & Java**, based on core computer science co
 ---
 
 ## 📈 Coding Practice
-- Active problem solver on **LeetCode**  
+- Active problem solver on [LeetCode](https://leetcode.com/asyayla/)  
 - Strong foundation in **Data Structures & Algorithms**
 
 
