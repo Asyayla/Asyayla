@@ -1,8 +1,8 @@
 # Hi, I'm Asya Yayla 👩‍💻
 
-🎓 Software Development student specializing in **Full-Stack Development**  
-💻 Skilled in **C, C++, Java, C#, Python** with hands-on experience in **ASP.NET Core** and **React**  
-🚀 Passionate about building **scalable, maintainable, and user-focused software solutions**
+🎓 Software Development Student | Exploring Web & Backend Development  
+💻 Skilled in C, C++, Java, C#, Python with hands-on experience in ASP.NET Core and React  
+🚀 Passionate about building scalable, maintainable, and user-focused software solutions
 
 ---
 
@@ -28,6 +28,15 @@
 ![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-FF6F00?style=for-the-badge&logo=googletagmanager&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-2496ED?style=for-the-badge&logo=trello&logoColor=white)
+
+---
+
+## 🎯 Areas of Interest
+- Web & Frontend Development
+- Backend Development & APIs
+- Data Structures & Algorithms
+- Software Design & Architecture
+- Database Management
 
 ---
 
@@ -59,5 +68,3 @@ Practical implementations in **C/C++ & Java**, based on core computer science co
 ## 📈 Coding Practice
 - Active problem solver on [LeetCode](https://leetcode.com/asyayla/)  
 - Strong foundation in **Data Structures & Algorithms**
-
-
