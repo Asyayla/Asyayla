@@ -1,4 +1,4 @@
-# Hi, I'm Asya Yayla 👩‍💻
+# Hi, I'm Asya Yayla 👩🏼‍💻
 
 🎓 Software Development Student | Exploring Web & Backend Development  
 💻 Skilled in C, C++, Java, C#, Python with hands-on experience in ASP.NET Core and React  
