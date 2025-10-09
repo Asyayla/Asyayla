@@ -51,20 +51,6 @@ A full-stack application built with **ASP.NET Core Web API + React**
 
 ---
 
-### 🔹 Python Data Analysis (Upcoming)
-Exploring **data analysis & web applications** with Python  
-[📂 Repository](#)
-
----
-
-### 🔹 Algorithms & Data Structures
-Practical implementations in **C/C++ & Java**, based on core computer science concepts  
-- Sorting & searching algorithms  
-- Custom data structures (linked list, stack, queue, tree)  
-[📂 Repository](#)
-
----
-
 ## 📈 Coding Practice
 - Active problem solver on [LeetCode](https://leetcode.com/asyayla/)  
 - Strong foundation in **Data Structures & Algorithms**
