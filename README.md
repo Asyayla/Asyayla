@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Asya Yayla
+# Hi, I'm Asya Yayla
 
 **Software Development Student | AI Intern**  
 - Built a full-stack application using .NET technologies and React.  
@@ -10,7 +10,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asyayla&layout=compact&hide_border=true" />
-
 </p>
 
 ---
@@ -24,6 +23,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="28" height="28" title="C#" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="28" height="28" title="Java" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28" height="28" title="Python" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" width="28" height="28" title="SQL" /> 
 
   <!-- Frameworks & Libraries -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="28" height="28" title=".NET" /> 
