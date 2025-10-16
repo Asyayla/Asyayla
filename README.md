@@ -1,56 +1,33 @@
-# Hi, I'm Asya Yayla 👩🏼‍💻
+# 👋 Hi, I'm Asya Yayla
 
-🎓 Software Development Student | Exploring Web & Backend Development  
-💻 Skilled in C, C++, Java, C#, Python with hands-on experience in ASP.NET Core and React  
-🚀 Passionate about building scalable, maintainable, and user-focused software solutions
-
----
-
-## 🛠️ Skills & Tools
-
-### 🌐 Languages  
-![C](https://img.shields.io/badge/-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### ⚙️ Frameworks & Libraries  
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-### 🗄️ Databases  
-![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-### 🔧 Other Tools  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
-![OOP](https://img.shields.io/badge/OOP-FF6F00?style=for-the-badge&logo=googletagmanager&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-2496ED?style=for-the-badge&logo=trello&logoColor=white)
+**Software Development Student | AI Intern**  
+Specializing in full stack application development using .NET technologies and React.  
+Focused on delivering clean, maintainable code and applying modern software architecture principles.
 
 ---
 
-## 🎯 Areas of Interest
-- Web & Frontend Development
-- Backend Development & APIs
-- Data Structures & Algorithms
-- Software Design & Architecture
-- Database Management
+### ⚙️ Technical Expertise
+
+**Languages:**  
+![C](https://img.shields.io/badge/C-2b2b2b?style=for-the-badge&logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-2b2b2b?style=for-the-badge&logo=cplusplus&logoColor=00599C)  
+![C#](https://img.shields.io/badge/C%23-2b2b2b?style=for-the-badge&logo=c-sharp&logoColor=68217A)  
+![Java](https://img.shields.io/badge/Java-2b2b2b?style=for-the-badge&logo=java&logoColor=f89820)  
+![Python](https://img.shields.io/badge/Python-2b2b2b?style=for-the-badge&logo=python&logoColor=3776AB)  
+
+**Frameworks & Libraries:**  
+![.NET](https://img.shields.io/badge/.NET-2b2b2b?style=for-the-badge&logo=dotnet&logoColor=512BD4)  
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-2b2b2b?style=for-the-badge&logo=dotnet&logoColor=512BD4)  
+![React](https://img.shields.io/badge/React-2b2b2b?style=for-the-badge&logo=react&logoColor=61DAFB)  
+
+**Databases & Tools:**  
+![SQL Server](https://img.shields.io/badge/SQL_Server-2b2b2b?style=for-the-badge&logo=microsoft-sql-server&logoColor=CC2927)  
+![Entity Framework Core](https://img.shields.io/badge/EF_Core-2b2b2b?style=for-the-badge&logo=dotnet&logoColor=512BD4)  
+![Git](https://img.shields.io/badge/Git-2b2b2b?style=for-the-badge&logo=git&logoColor=F05032)  
+![REST APIs](https://img.shields.io/badge/REST_API-2b2b2b?style=for-the-badge&logo=swagger&logoColor=85EA2D)
 
 ---
 
-## 💻 Featured Projects
+### 📊 GitHub Overview
 
-### 🔹 Site Management and Dues System
-A full-stack application built with **ASP.NET Core Web API + React**  
-- Features: User management, apartment & dues tracking  
-- Authentication: JWT-based, role-based authorization  
-- Database: MSSQL with Entity Framework Core  
-[📂 Repository](#) | [🎥 Demo](#)
-
----
-
-## 📈 Coding Practice
-- Active problem solver on [LeetCode](https://leetcode.com/asyayla/)  
-- Strong foundation in **Data Structures & Algorithms**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asyayla&layout=compact&theme=github_dark&hide_border=true)
