@@ -1,15 +1,15 @@
-# Hi, I'm Asya Yayla
+# 👋 Hi, I'm Asya Yayla
 
 **Software Development Student | AI Intern**  
-- Built a full-stack application using .NET technologies and React  
-- Focused on delivering clean, maintainable code and applying modern software architecture principles
+- Built a full-stack application using .NET technologies and React.  
+- Focused on delivering clean, maintainable code and applying modern software architecture principles.
 
 ---
 
 ### ⚙️ Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asyayla&layout=compact&theme=light&hide_border=true&langs_count=5" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asyayla&layout=compact&theme=github_light&hide_border=true" />
 </p>
 
 ---
