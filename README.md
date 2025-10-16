@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Asya Yayla
+# Hi, I'm Asya Yayla 
 
 **Software Development Student | AI Intern**  
 Specializing in full-stack application development using .NET technologies and React.  
@@ -6,22 +6,29 @@ Focused on delivering clean, maintainable code and applying modern software arch
 
 ---
 
-### ⚙️ Technical Expertise
+### ⚙️ Most Languages
 
-**Languages:**  
-![C](https://img.shields.io/badge/C-2b2b2b?style=for-the-badge&logo=c&logoColor=white&labelColor=2b2b2b&logoWidth=20) ![C++](https://img.shields.io/badge/C++-2b2b2b?style=for-the-badge&logo=cplusplus&logoColor=00599C&labelColor=2b2b2b&logoWidth=20) ![C#](https://img.shields.io/badge/C%23-2b2b2b?style=for-the-badge&logo=c-sharp&logoColor=68217A&labelColor=2b2b2b&logoWidth=20) ![Java](https://img.shields.io/badge/Java-2b2b2b?style=for-the-badge&logo=java&logoColor=f89820&labelColor=2b2b2b&logoWidth=20) ![Python](https://img.shields.io/badge/Python-2b2b2b?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=2b2b2b&logoWidth=20)
-
-**Frameworks & Libraries:**  
-![.NET](https://img.shields.io/badge/.NET-2b2b2b?style=for-the-badge&logo=dotnet&logoColor=512BD4&labelColor=2b2b2b&logoWidth=20) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-2b2b2b?style=for-the-badge&logo=dotnet&logoColor=512BD4&labelColor=2b2b2b&logoWidth=20) ![React](https://img.shields.io/badge/React-2b2b2b?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=2b2b2b&logoWidth=20)
-
-**Databases & Tools:**  
-![SQL Server](https://img.shields.io/badge/SQL_Server-2b2b2b?style=for-the-badge&logo=microsoft-sql-server&logoColor=CC2927&labelColor=2b2b2b&logoWidth=20) ![Entity Framework Core](https://img.shields.io/badge/EF_Core-2b2b2b?style=for-the-badge&logo=dotnet&logoColor=512BD4&labelColor=2b2b2b&logoWidth=20) ![Git](https://img.shields.io/badge/Git-2b2b2b?style=for-the-badge&logo=git&logoColor=F05032&labelColor=2b2b2b&logoWidth=20) ![REST APIs](https://img.shields.io/badge/REST_API-2b2b2b?style=for-the-badge&logo=swagger&logoColor=85EA2D&labelColor=2b2b2b&logoWidth=20)
+<p align="center" style="display:flex; justify-content:center; flex-wrap:wrap; gap:12px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" height="30" title="C" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30" height="30" title="C++" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30" height="30" title="C#" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" height="30" title="Java" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30" title="Python" /> 
+</p>
 
 ---
 
-### 📊 GitHub Overview
+### ⚙️ Technical Expertise
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asyayla&show_icons=true&theme=github_dark&hide_border=true" height="150" style="display:inline-block; margin-right:10px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asyayla&layout=compact&theme=github_dark&hide_border=true" height="150" style="display:inline-block; margin-left:10px;" />
+<p align="center" style="display:flex; justify-content:center; flex-wrap:wrap; gap:12px;">
+  <!-- Frameworks & Libraries -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="30" height="30" title=".NET" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30" title="React" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aspdotnet/aspdotnet-original.svg" width="30" height="30" title="ASP.NET Core" />
+
+  <!-- Databases & Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="30" height="30" title="SQL Server" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/efcore/efcore-original.svg" width="30" height="30" title="Entity Framework Core" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30" title="Git" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="30" height="30" title="REST APIs" /> 
 </p>
