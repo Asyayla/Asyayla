@@ -23,14 +23,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30" height="30" title="C#" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" height="30" title="Java" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30" title="Python" /> 
-  <img src="https://www.svgrepo.com/show/303216/sql.svg" width="30" height="30" title="SQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" height="30" title="TypeScript" />
 
   <!-- Frameworks & Libraries -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="30" height="30" title=".NET" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aspdotnet/aspdotnet-original.svg" width="30" height="30" title="ASP.NET Core" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30" title="React" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/efcore/efcore-original.svg" width="30" height="30" title="EF Core" />
 
   <!-- Databases & Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" height="30" title="MySQL" />
