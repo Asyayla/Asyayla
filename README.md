@@ -1,6 +1,6 @@
 # Hi, I'm Asya Yayla
 
-**Software Development Student | AI Intern**  
+**Software Development Student | AI Developer Intern**  
 - Built a full-stack application using .NET technologies and React.  
 - Focused on delivering clean, maintainable code and applying modern software architecture principles.
 
