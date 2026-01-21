@@ -7,8 +7,9 @@
 ### ⚙️ Most Used Languages
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=asyayla&layout=compact&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asyayla&layout=compact&hide_border=true&theme=default" />
 </div>
+
 
 ---
 
