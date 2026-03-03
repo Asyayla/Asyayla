@@ -1,7 +1,7 @@
 # Asya Yayla
 
 Software Development Student  
-Focused on Backend Development & Databases  
+Focused on Backend Development & Data Systems
 
 ---
 
