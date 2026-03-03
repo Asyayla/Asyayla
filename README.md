@@ -1,35 +1,20 @@
 # Asya Yayla
 
 Software Development Student  
-Backend & Database Focused  
+Focused on Backend Development & Databases  
 
 ---
 
 ## Tech Stack
 
 C • C++ • Java • Python • SQL  
-.NET • ASP.NET Core • React • Flutter  
+.NET • ASP.NET Core • React  
 Microsoft SQL Server • MySQL  
 
 ---
 
-## Experience
+## Areas of Interest
 
-• Building Management & Payment System – .NET & React  
-• Giderim Mobile App – Flutter  
-• SQL-based data tasks (internship)  
-
----
-
-## Currently Improving
-
-Backend architecture  
-SQL performance & indexing  
-
----
-
-## Most Used Languages
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asyayla&layout=compact&hide_border=true&langs_count=8" />
-</div>
+Backend systems  
+Database design  
+Query optimization  
