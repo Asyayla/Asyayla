@@ -4,6 +4,12 @@ Learning by building software projects.
 
 ---
 
+## 🕸️ What I'm building
+
+**[Arachnest](https://arachnest.com/tr)** is a structured memory layer for AI agents. It records what a project decided, why and by whom, so AI tools can share one traceable record. I'm co-founding it, and it is currently in alpha.
+
+---
+
 ## 🔗 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asya-yayla/)
